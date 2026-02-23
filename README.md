@@ -1,2 +1,2 @@
 # PRUEBA2026T1
-Prueba
+Prueba ejercicio en clase
